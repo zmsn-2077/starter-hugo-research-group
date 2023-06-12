@@ -8,15 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        PKU-LDIA
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        The Laboratory of Decision Intelligence and Alignment (LDIA) at Peking University (PKU) is a prestigious research facility focused on advancing decision intelligence and alignment. Led by a team of interdisciplinary experts, LDIA conducts cutting-edge research to develop innovative methodologies for effective decision-making.
+
   - block: collection
     content:
       title: Latest News
@@ -35,7 +34,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -44,7 +43,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: coders.jpg
           filters:
             brightness: 1
@@ -55,7 +54,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
+
   - block: markdown
     content:
       title:
