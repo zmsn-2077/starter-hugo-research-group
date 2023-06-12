@@ -1,16 +1,22 @@
 ---
-title: 'An example journal article'
+title: On the complexity of computing Markov perfect equilibrium in general-sum stochastic games
 authors:
+  - Xiaotie Deng
+  - Ningyuan Li
+  - David Mguni
+  - Jun Wang
   - admin
-  - Robert Ford
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+  - 'Corresponding author'
+  - 'Corresponding author'
+  -
+  -
+  - 'Corresponding author'
+date: '2023-02-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-02'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,22 +25,26 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ''
+publication: 'National Science Review'
+publication_short: 'NSR'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Similar to the role of Markov decision processes in reinforcement learning, Markov games (also called stochastic games) lay down the foundation for the study of multi-agent reinforcement learning and sequential agent interactions. We introduce approximate Markov perfect equilibrium as a solution to the computational problem of finite-state stochastic games repeated in the infinite horizon and prove its PPAD-completeness. This solution concept preserves the Markov perfect property and opens up the possibility for the success of multi-agent reinforcement learning algorithms on static two-player games to be extended to multi-agent dynamic games, expanding the reign of the PPAD-complete class.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We introduce approximate Markov perfect equilibrium as a solution to the computational problem of finite-state stochastic games repeated in the infinite horizon and prove its PPAD-completeness.
 
 tags:
-  - Source Themes
+  - Markov game
+  - multi-agent reinforcement learning
+  - Markov perfect equilibrium
+  - PPAD-completeness
+  - stochastic game
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://academic.oup.com/nsr/article/10/1/nwac256/6840228
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,9 +74,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
+<!--
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

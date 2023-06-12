@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2023-06-12
 
 type: landing
 
@@ -13,15 +13,15 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: No. 5, Yiheyuan Road, Haidian District
+        city: Beijing
+        region: China
+        postcode: '100871'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '39.9935'
+        longitude: '116.3035'
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
@@ -32,10 +32,10 @@ sections:
       #    icon_pack: fas
       #    name: Discuss on Forum
       #    link: 'https://discourse.gohugo.io'
-    
+
       # Automatically link email and phone or display as text?
       autolink: true
-    
+
       # Email form provider
       form:
         provider: netlify
@@ -55,7 +55,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: contact.jpg
           filters:
             brightness: 1

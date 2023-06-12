@@ -16,24 +16,24 @@ sections:
 
         The Laboratory of Decision Intelligence and Alignment (LDIA) at Peking University (PKU) is a prestigious research facility focused on advancing decision intelligence and alignment. Led by a team of interdisciplinary experts, LDIA conducts cutting-edge research to develop innovative methodologies for effective decision-making.
 
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: card
+  #     columns: '1'
 
   - block: markdown
     content:
