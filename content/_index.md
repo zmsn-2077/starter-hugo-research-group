@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        PKU-DIAL
+        PAIR Lab
       image:
         filename: welcome.jpg
       text: |
