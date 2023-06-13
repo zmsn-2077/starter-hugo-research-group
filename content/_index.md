@@ -1,20 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-06-13
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        PKU-LDIA
+        PKU-DIAL
       image:
         filename: welcome.jpg
       text: |
         <br>
 
-        The Laboratory of Decision Intelligence and Alignment (LDIA) at Peking University (PKU) is a prestigious research facility focused on advancing decision intelligence and alignment. Led by a team of interdisciplinary experts, LDIA conducts cutting-edge research to develop innovative methodologies for effective decision-making.
+        Decisions, Interactions, and Alignment Lab at Peking University (PKU) is a energetic research team focused on advancing decision intelligence and alignment. Led by Prof.Yaodong Yang, PKU-DIAL conducts cutting-edge research to develop innovative methodologies for Reinforcement Learning, LLMs for Alignment, AI Safety.
 
   # - block: collection
   #   content:

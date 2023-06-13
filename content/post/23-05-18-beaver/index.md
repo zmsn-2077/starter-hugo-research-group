@@ -3,7 +3,7 @@ title: '国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver'
 date: 2023-05-18
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+北京大学团队开源了名为 PKU-Beaver（河狸）项目，其开源地址为：https://github.com/PKU-Alignment/safe-rlhf。
 
 <!--more-->
 
