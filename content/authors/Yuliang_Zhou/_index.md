@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergrad '19
+role: Undergrad'19
 
 # Organizations/Affiliations
 organizations:

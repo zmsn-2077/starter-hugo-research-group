@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd'23
+role: Phd'23, co-advised with Prof. Song-Chun Zhu
 
 # Organizations/Affiliations
 organizations:

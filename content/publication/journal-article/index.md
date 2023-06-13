@@ -6,12 +6,6 @@ authors:
   - David Mguni
   - Jun Wang
   - admin
-author_notes:
-  - 'Corresponding author'
-  - 'Corresponding author'
-  -
-  -
-  - 'Corresponding author'
 date: '2023-02-01T00:00:00Z'
 doi: ''
 

@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergrad '18
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: Stanford University
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Research Assistants
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

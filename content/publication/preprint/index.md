@@ -11,17 +11,7 @@ authors:
   - Yiran Geng
   - Mickel Liu
   - admin
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  -
-  -
-  -
-  -
-  -
-  -
-  - 'Corresponding author'
+
 
 date: '2023-06-07T00:00:00Z'
 doi: ''

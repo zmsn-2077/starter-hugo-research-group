@@ -12,9 +12,7 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-
-        Decisions, Interactions, and Alignment Lab at Peking University (PKU) is a energetic research team focused on advancing decision intelligence and alignment. Led by Prof.Yaodong Yang, PKU-DIAL conducts cutting-edge research to develop innovative methodologies for Reinforcement Learning, LLMs for Alignment, AI Safety.
+        At the PKU Alignment and Interaction Research Lab (PAIR Lab), we address the fundamental challenges in decision-making, strategic interactions, and value alignment within AGI. Our expertise encompasses reinforcement learning for refined decision-making, multi-agent systems and game theory for complex interactions, and RLHF techniques for secure AGI-human value alignment. Our integrative methodology aims to guide AGI development towards a safe, beneficial future in synchrony with humanity."
 
   # - block: collection
   #   content:

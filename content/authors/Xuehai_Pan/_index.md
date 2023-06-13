@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd'23
+role: Phd'19, co-advised with Prof. Yizhou Wang
 
 # Organizations/Affiliations
 organizations:
