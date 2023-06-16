@@ -1,0 +1,11 @@
+# Font style metadata
+name = "par_lab_font"
+
+# Optional Google font URL
+google_fonts = "family=Lora:wght@400;700&family=Merriweather&family=Roboto+Mono"
+
+# Font families
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lato"
+mono_font = "Lora"

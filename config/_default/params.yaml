@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
+  theme_day: pair_lab
   # theme_night: earth
-  font: native
-  font_size: L
+  font: pair_lab_font
+  font_size: m
 
 # SEO
 
