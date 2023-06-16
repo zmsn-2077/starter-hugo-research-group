@@ -7,5 +7,5 @@ google_fonts = "family=Lora:wght@400;700&family=Merriweather&family=Roboto+Mono"
 # Font families
 heading_font = "Lora"
 body_font = "Lora"
-nav_font = "Lato"
+nav_font = "Lara"
 mono_font = "Lora"

@@ -60,25 +60,6 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3000
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image:
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
   - block: hero
     content:
       title: |
