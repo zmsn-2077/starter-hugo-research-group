@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Yaodong Yang
-link: www.yangyaodong.com
 
 # Full Name (for SEO)
 first_name: Yaodong

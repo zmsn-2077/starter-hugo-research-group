@@ -7,8 +7,8 @@ first_name: Borong
 last_name: Zhang
 
 # Username (this should match the folder name)
-authors:
-  - Borong_Zhang
+# authors:
+#   - Borong_Zhang
 
 # Is this the primary user of the site?
 superuser: false
