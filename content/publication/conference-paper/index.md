@@ -5,12 +5,6 @@ authors:
   - Le Cong Dinh
   - Stephen Marcus McAleer
   - admin
-
-author_notes:
-  -
-  -
-  -
-  -
 date: '2023-05-01T00:00:00Z'
 doi: ''
 
