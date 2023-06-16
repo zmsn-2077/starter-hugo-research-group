@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Jiayi Zhou
+title: Weidong Huang
 
 # Full name (for SEO)
-first_name: Jiayi
-last_name: Zhou
+first_name: Weidong
+last_name: Huang
 
 # Username (this should match the folder name)
 authors:
-  - Jiayi_Zhou
+  - Weidong_Huang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad'19
+role: Master
 
 # Organizations/Affiliations
 organizations:
-  - name: Xi'an Jiaotong University
+  - name: Beihang University
     url: 
 
 # Short bio (displayed in user profile at end of posts)

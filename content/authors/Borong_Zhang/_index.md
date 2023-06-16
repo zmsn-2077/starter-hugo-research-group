@@ -18,8 +18,8 @@ role: Undergrad'20
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
-    url: 'https://www.pku.edu.cn/'
+  - name: Jilin University
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd'23
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: The Chinese University of Hongkong, Shenzhen
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)

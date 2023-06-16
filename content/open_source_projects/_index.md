@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Recent & Upcoming Open-Source Projects
 
 # Listing view
 view: compact

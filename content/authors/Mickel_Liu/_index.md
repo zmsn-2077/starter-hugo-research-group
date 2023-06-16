@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Jiayi Zhou
+title: Mickel Liu
 
 # Full name (for SEO)
-first_name: Jiayi
-last_name: Zhou
+first_name: Mickel
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - Jiayi_Zhou
+  - Mickel_Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad'19
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Xi'an Jiaotong University
-    url: 
+  - name: Peking University
+    url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Research Assistants
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
